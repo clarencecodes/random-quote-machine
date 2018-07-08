@@ -44,3 +44,9 @@ header > h1 {
     font-size: 12px;
     display: none;
 }
+
+footer {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 0.7em;
+    opacity: 0.8;
+}
